@@ -124,6 +124,14 @@
         margin-top: 20px
     }
 
+    #why, #lezioni {
+        background-color: #F2F2CD;
+    }
+
+    #steps {
+        background-color: white;
+    }
+
     .col-xs-1 {
         width: calc((100% / 12) * 1);
     }
